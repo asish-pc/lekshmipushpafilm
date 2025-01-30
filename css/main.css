@@ -5173,3 +5173,11 @@ img{
 	color:#ff0000;
 	font-weight:500;	
 }
+
+.centerimg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;	
+}
+
